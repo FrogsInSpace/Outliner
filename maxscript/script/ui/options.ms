@@ -425,7 +425,10 @@ rollout outliner_options_workflowtools "Workflow Tools Options"
 rollout outliner_options_about "About \x26 Donate"
 (
    label versionLbl "";
+   label bugfixLbl "Max 2017+ fix \xa9 2016, Josef Wienerroither"	
+
    label nameLbl "Copyright \xa9 2011, Pier Janssen"
+   
    hyperlink mailLbl "pier@threesixty.nl" address:"mailto:pier@threesixty.nl" align:#center;
    hyperlink siteLbl "outliner.threesixty.nl" address:"http://outliner.threesixty.nl/" align:#center offset:[0, -2];
    
